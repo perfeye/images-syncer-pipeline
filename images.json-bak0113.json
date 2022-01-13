@@ -1,0 +1,5 @@
+{
+  "k8s.gcr.io/autoscaling/vpa-admission-controller:0.9.2": "registry.cn-shanghai.aliyuncs.com/perfeye/autoscaling_vpa-admission-controller:0.9.2",
+  "k8s.gcr.io/autoscaling/vpa-recommender:0.9.2": "registry.cn-shanghai.aliyuncs.com/perfeye/autoscaling_vpa-recommender:0.9.2",
+  "k8s.gcr.io/autoscaling/vpa-updater:0.9.2": "registry.cn-shanghai.aliyuncs.com/perfeye/autoscaling_vpa-updater:0.9.2"
+}
