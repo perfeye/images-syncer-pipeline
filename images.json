@@ -10,7 +10,7 @@
 "docker.io/flannelcni/flannel-cni-plugin:v1.1.0-amd64": "registry.cn-shanghai.aliyuncs.com/perfeye/flannel-cni-plugin:v1.1.0-amd64",
 "quay.io/calico/node:v3.23.3": "registry.cn-shanghai.aliyuncs.com/perfeye/calico_node:v3.23.3",
 "quay.io/calico/cni:v3.23.3": "registry.cn-shanghai.aliyuncs.com/perfeye/calico_cni:v3.23.3",
-"quay.io/calico/pod2daemon-flexvol:v3.23.3": "registry.cn-shanghai.aliyuncs.com/perfeye/calico/pod2daemon-flexvol:v3.23.3,
+"quay.io/calico/pod2daemon-flexvol:v3.23.3": "registry.cn-shanghai.aliyuncs.com/perfeye/calico/pod2daemon-flexvol:v3.23.3",
 "quay.io/calico/kube-controllers:v3.23.3": "registry.cn-shanghai.aliyuncs.com/perfeye/calico_kube-controllers:v3.23.3",
 "quay.io/calico/typha:v3.23.3": "registry.cn-shanghai.aliyuncs.com/perfeye/calico_typha:v3.23.3",
 "quay.io/calico/apiserver:v3.23.3": "registry.cn-shanghai.aliyuncs.com/perfeye/calico_apiserver:v3.23.3",
