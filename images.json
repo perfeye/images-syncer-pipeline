@@ -1,10 +1,3 @@
 {
-"gcr.io/tekton-releases/github.com/tektoncd/dashboard/cmd/dashboard:v0.49.0@sha256:ac2bdd8c96e828cb5bce48e5d989b2c35c805d95fb273378864e09395b664d73": "registry.cn-hangzhou.aliyuncs.com/perfeye/tekton-dashboard:v0.49.0",
-"ggcr.io/tekton-releases/github.com/tektoncd/triggers/cmd/interceptors:v0.28.0@sha256:6e664b0b03956790ccf3ab71c8732f84631c9fa727e0165330df08def5dec997": "registry.cn-hangzhou.aliyuncs.com/perfeye/tekton-interceptors:v0.28.0",
-"gcr.io/tekton-releases/github.com/tektoncd/pipeline/cmd/controller:v0.62.0@sha256:709b61dd888cdf3b30a66f6fb9cfa22bb7f2c7f0de03f37b4de947d6f79286a6": "registry.cn-hangzhou.aliyuncs.com/perfeye/tekton-controller:v0.62.0",
-"gcr.io/tekton-releases/github.com/tektoncd/pipeline/cmd/events:v0.62.0@sha256:da11246f95d0556d56c82cad981d3bea861e4d65ef2be282ebdcfab2a5454faf": "registry.cn-hangzhou.aliyuncs.com/perfeye/tekton-events:v0.62.0",
-"gcr.io/tekton-releases/github.com/tektoncd/pipeline/cmd/resolvers:v0.62.0@sha256:ad6dda79e3cef90e95664dba17829294422a345e44938a9df1926796fbbc8f25": "registry.cn-hangzhou.aliyuncs.com/perfeye/tekton-resolvers:v0.62.0",
-"gcr.io/tekton-releases/github.com/tektoncd/pipeline/cmd/webhook:v0.62.0@sha256:e860efdac20bcbd9902acafac7c8ea93c692ded7a2ae2e7c4386fd85067e264f": "registry.cn-hangzhou.aliyuncs.com/perfeye/tekton-webhook:v0.62.0",
-"gcr.io/tekton-releases/github.com/tektoncd/triggers/cmd/controller:v0.28.0@sha256:3f26f706dd332390e62ec9d0e203651db8eca9203ea3a103909dbe422075f01e": "registry.cn-hangzhou.aliyuncs.com/perfeye/tekton-controller:v0.28.0",
-"gcr.io/tekton-releases/github.com/tektoncd/triggers/cmd/webhook:v0.28.0@sha256:3f26d120a4ad8a8b45d219977e427f326f7e778439b80063afd6a148e5bc6940": "registry.cn-hangzhou.aliyuncs.com/perfeye/tekton-webhook:v0.28.0"
+"gcr.io/distroless/static:nonroot": "registry.cn-hangzhou.aliyuncs.com/perfeye/distroless_static:nonroot"
 }
