@@ -1,3 +1,3 @@
 {
-"gcr.io/distroless/static:nonroot": "registry.cn-hangzhou.aliyuncs.com/perfeye/distroless_static:nonroot"
+"wangshuai09/ubuntu-cann7.0.0-torch21-py310-stable_diffusion:latest": "registry.cn-shanghai.aliyuncs.com/perfeye/ubuntu-cann7.0.0-torch21-py310-stable_diffusion:latest"
 }
